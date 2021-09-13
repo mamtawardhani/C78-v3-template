@@ -7,21 +7,6 @@ export default class StarMapScreen extends Component {
         super()
 
         // this.state = {
-        //     longitude: ,
-        //     latitude: 
-        // }
-
-        // this.state = {
-        //     longitude= '',
-        //     latitude= ''
-        // }
-
-        // this.setState = {
-        //     longitude: '',
-        //     latitude: ''
-        // }
-
-        // this.state = {
         //     longitude: '',
         //     latitude: ''
         // }
